@@ -1,11 +1,6 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [
-		{
-			"path": "golang.org/x/sys/unix",
-			"revision": ""
-		}
-	],
+	"package": [],
 	"rootPath": "github.com/celthi/BrainGame"
 }
