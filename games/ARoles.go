@@ -2,6 +2,7 @@ package games
 
 
 type ARole struct {
+	role Role
 	name string
 	lifeState Life
 }
