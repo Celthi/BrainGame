@@ -1,5 +1,5 @@
-package games
+package Games
 
 type Life struct {
-	state int
+	State int
 }

@@ -1,8 +1,11 @@
-package games
+package Games
 
 
-type LRolse struct {
-	role Role
-	
+type LRoles struct {
+	Name string
+	Skill string
 }
 
+func (role LRoles) Play() string {
+	return role.Name + "is playing"
+}
