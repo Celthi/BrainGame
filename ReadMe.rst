@@ -1,6 +1,7 @@
 Brain Game
 ====
 
+There is no God/Judge in this game --- The purpose of this game.
 A web app to play the board game, such as Lang Ren Sha,
 
 Design
